@@ -66,8 +66,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Debarghya}{Das}{ \urlstyle{same}\href{http://debarghyadas.com}{debarghyadas.com}| \href{http://fb.co/dd}{fb.co/dd}\\
-\href{mailto:deedy@fb.com}{deedy@fb.com} | 607.379.5733 | \href{mailto:dd367@cornell.edu}{dd367@cornell.edu}
+\namesection{Christos-Angelos}{Vasilopoulos}{ \urlstyle{same} \href{mailto:vasilopoc@gmail.com}{vasilopoc@gmail.com} | \\ 
+(+30) 698 5956 144
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -82,24 +82,14 @@
 %     EDUCATION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Education} 
-
-\subsection{Cornell University}
-\descript{MEng in Computer Science}
-\location{Dec 2014 | Ithaca, NY}
+\section{Education}
 \sectionsep
-
-\subsection{Cornell University}
-\descript{BS in Computer Science}
-\location{May 2014 | Ithaca, NY}
-College of Engineering \\
-Magna Cum Laude\\
-\location{ Cum. GPA: 3.83 / 4.0 \\
-Major GPA: 3.9 / 4.0}
+\subsection{University of Patras}
+\descript{MEng in Computer Engineering \& Informatics}
+Computer Engineering \& Informatics Department \\
+\location{March 2018 | Patras, Greece}
+\location{Grade: 6.56/10.0}
 \sectionsep
-
-\subsection{La Martiniere for Boys}
-\location{Grad. May 2011|  Kolkata, India}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -107,51 +97,59 @@ Major GPA: 3.9 / 4.0}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links} 
-Facebook:// \href{https://facebook/dd}{\bf dd} \\
-Github:// \href{https://github.com/deedydas}{\bf deedydas} \\
-LinkedIn://  \href{https://www.linkedin.com/in/debarghyadas}{\bf debarghyadas} \\
-YouTube://  \href{https://www.youtube.com/user/DeedyDash007}{\bf DeedyDash007} \\
-Twitter://  \href{https://twitter.com/debarghya_das}{\bf @debarghya\_das} \\
-Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
+\sectionsep
+Github:// \href{https://github.com/vasilopo}{\bf vasilopo} \\
+LinkedIn://  \href{https://www.linkedin.com/in/vasilopo}{\bf vasilopo} \\
+Twitter://  \href{https://twitter.com/vasilopo_}{\bf @vasilopo\_}
+\sectionsep
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Coursework}
-\subsection{Graduate}
-Advanced Machine Learning \\
-Open Source Software Engineering \\
-Advanced Interactive Graphics \\
-Compilers + Practicum \\
-Cloud Computing \\
-Evolutionary Computation \\
-Defending Computer Networks \\
-Machine Learning \\
 \sectionsep
+\subsection{Graduate}
 
-\subsection{Undergraduate}
+\smallskip
+Object Oriented Programming \\
+Graph Theory \& Applications \\
+Data Structures \\
+Database Systems \\
 Information Retrieval \\
-Operating Systems \\
-Artificial Intelligence + Practicum \\
-Functional Programming \\
-Computer Graphics + Practicum \\
-{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
-Unix Tools and Scripting \\
+Data Mining \& Machine Learning \\
+Artificial Intelligence \\
+Parallel Programming \\
+Web Programming \& Systems \\
+Linear Algebra \\
+Probability \& Basic Statistics \\
+Numerical Analysis \& Implementation Environments \\
+Scientific Computing \\
+Signals \& Systems Theory \\
+Digital Signal Processing \\
+Computational Complexity
+\sectionsep
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Skills}
+\sectionsep
 \subsection{Programming}
+\smallskip
 \location{Over 5000 lines:}
-Java \textbullet{}   Shell \textbullet{} Python \textbullet{} Javascript \\
-OCaml \textbullet{} Matlab \textbullet{} Rails \textbullet{} \LaTeX\ \\ 
+Python \textbullet{}   Shell  \textbullet{} JS \textbullet{} MySQL \\
+\smallskip
 \location{Over 1000 lines:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Assembly \\
+React \textbullet{} HTML \textbullet{} CSS \textbullet{} \LaTeX\ \\
+Docker \textbullet{} TensorFlow \textbullet{} scikit-learn \\
+\smallskip
 \location{Familiar:}
-AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
+nginx \textbullet{} Travis CI \textbullet{} Kubernetes \\
+\sectionsep
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -169,76 +167,78 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{Facebook}
-\descript{| Software Engineer }
-\location{Jan 2015 - Present | New York, NY}
 \sectionsep
-
-\runsubsection{Coursera}
-\descript{| KPCB Fellow + Software Engineering Intern }
-\location{June 2014 – Sep 2014 | Mountain View, CA}
+\runsubsection{Sentio Solutions}
+\descript{| Junior Backend Software Engineer }
+\location{May 2020 - Present | Athens, Greece}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}\item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
-\item Led and shipped Yoda - the admin interface for the new Phoenix platform. 
-\item Full-stack developer - Wrote and reviewed code for JS using Backbone, Jade, Stylus and Require and Scala using Play
+\begin{tightemize}
+\item Designing and developing the \href{https://www.myfeel.co/}{\bf Feel} mobile (Android \& iOS) API using \textbf{Python}.
+\item Enhancing and creating the internal infrastructure using \textbf{Python} and \textbf{React}.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Google}
-\descript{| Software Engineering Intern }
-\location{May 2013 – Aug 2013 | Mountain View, CA}
+\runsubsection{Greek Army}
+\descript{| Research and Informatics }
+\location{May 2019 – Feb 2020 | Athens, Greece}
 \begin{tightemize}
-\item Worked on the YouTube Captions team, in Javascript and Python to plan, to design and develop the full stack to add and edit Automatic Speech Recognition captions. In production.\item Created a backbone.js-like framework for the Captions editor.\end{tightemize}
+\item Created multiple scripts and internal websites using \textbf{Python}, \textbf{HTML/CSS} and \textbf{Shell}.
+\item Maintained the Hardware Infrastructure (Servers \& Networks).
+\end{tightemize}
 \sectionsep
 
-\runsubsection{Phabricator}
-\descript{| Open Source Contributor \& Team Leader}
-\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
+\runsubsection{Innoetics Text-to-Speech Technologies}
+\descript{| Machine Learning Engineer Intern }
+\location{Apr 2019 – May 2019 | Athens, Greece}
 \begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.\item I created the Meme generator and more in PHP and Shell.\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.\end{tightemize}
+\item Implemented various Deep Learning architectures with goal to predict the MOS (Mean Opinion Scores) of Text-To-Speech systems using \textbf{Python} with the help of \textbf{PyTorch} library.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{TreeBot}
+\descript{| Co-Founder}
+\location{Apr 2018 – Dec 2018 | Athens, Greece}
+\begin{tightemize}
+\item Teamed up with CEID/UoP classmates to explore product ideas and deliver larger customer projects.
+\end{tightemize}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
+%     CERTIFICATIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Research}
-\runsubsection{Cornell Robot Learning Lab}
-\descript{| Researcher}
-\location{Jan 2014 – Jan 2015 | Ithaca, NY}
-Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
+\section{Certifications} 
 \sectionsep
-
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
-Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Awards} 
 \begin{tabular}{rll}
-2014	     & top 52/2500  & KPCB Engineering Fellow\\
-2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-2013	     & National  & Jump Trading Challenge Finalist\\
-2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
+2020     & Databricks & \href{https://academy.databricks.com/award/completion/8ce2f749-13c5-3653-b65f-f11c7f7dadd0/view}{\bf  ETL Part 1: Data Extraction (with capstone)} \\
+2020     & Databricks & \href{https://academy.databricks.com/award/completion/10de5096-03c3-39d3-8d52-65e009f4bd77/view}{\bf Getting Started with Apache Spark SQL (with capstone)} \\
+2020     & Udemy & \href{https://www.udemy.com/certificate/UC-b3aa10f2-a5e2-4a58-a23a-b92b07aa78aa/}{\bf Apache Spark with Scala - Hands On with Big Data!} \\
+2020     & Udemy & \href{https://www.udemy.com/certificate/UC-46953a56-4d00-4acf-b1af-648cbb4dfbd5/}{\bf Docker and Kubernetes: The Complete Guide} \\
+2019     & Coursera & \href{https://www.coursera.org/account/accomplishments/certificate/9Z7KHBRZUFVG}{\bf AI For Everyone} \\
+2019     & Coursera & \href{https://www.coursera.org/account/accomplishments/specialization/RJNUDN4A66AD}{\bf TensorFlow in Practice Specialization} \\
+2019     & Coursera & \href{https://www.coursera.org/account/accomplishments/specialization/YLCXVEL7SS82}{\bf Deep Learning Specialization} \\
+2018     & Udemy & \href{https://www.udemy.com/certificate/UC-GB3II3AN/}{\bf Become a Blockchain Developer with Ethereum and Solidity} \\
+2018     & Udemy & \href{https://www.udemy.com/certificate/UC-6URGNMK0/}{\bf Learn Ethical Hacking From Scratch} \\
+2018     & Udemy & \href{https://www.udemy.com/certificate/UC-7JIXR6PZ/}{\bf Advanced AI: Deep Reinforcement Learning in Python} \\
+2018     & Udemy & \href{https://www.udemy.com/certificate/UC-N45P2SMB/}{\bf Deep Learning A-Z™: Hands-On Artificial Neural Networks} \\
 \end{tabular}
 \sectionsep
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PUBLICATIONS
+%     PROJECTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Publications} 
-\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
-\bibliographystyle{abbrv}
-\bibliography{publications}
-\nocite{*}
+\section{Projects} 
+\sectionsep
+\textbf{Diploma Thesis}: 
+\smallskip
+\begin{tightemize}
+\item Created an Information Retrieval Algorithm based on the \textbf{Okapi BM25 Algorithm} which performed \textbf{Query Expansion} with the help of \textbf{Neural Networks}. \\
+\smallskip
+The implementation was made in \textbf{Python} with the help of the \textbf{Gensim Python library}.
+\end{tightemize}
+\sectionsep
 
 \end{minipage} 
 \end{document}  \documentclass[]{article}

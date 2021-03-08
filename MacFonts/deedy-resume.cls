@@ -14,8 +14,8 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{titlesec}
 \usepackage[absolute]{textpos}
-\usepackage[UKenglish]{babel}
-\usepackage[UKenglish]{isodate}
+\usepackage[british]{babel}
+\usepackage[british]{isodate}
 \usepackage{fontspec,xltxtra,xunicode}
 
 % Cite publications
